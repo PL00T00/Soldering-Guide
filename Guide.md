@@ -29,5 +29,11 @@ Soldering is normally extremely safe, but anything could go wrong so make sure y
   <tr><td>Burns</td> <td>The most obvious risk, the soldering iron will be hot and can burn you.</td> <td>Don't touch near the hot end of the soldering iron and always expect the PCB and any metal to be hot before you pick it up.</td></tr>
   <tr><td>Fumes</td> <td>When flux heats up it produces smoke that could irritate the throat and eyes and might cause allergies, asthma or headaches.*</td> <td>Wear safety equiptment like masks, safety glasses and use a fume extractor or solder in an open, well ventilated space.</td></tr>
   <tr><td>Lead</td><td>Lead is a possible carcinogen and a lot of solders contain it. The lead inside solder does not melt though so the fumes from solder does not contain lead.*</td> <td>Avoid touching your face after touching solder and wash your hands after handling it. (Also, store solder out of reach of pets and children for the same reason)</td></tr>
-  <tr><td>Fire</td> <td>
+  <tr><td>Fire</td> <td>Leaving loose objects like papers on your workspace might cause a fire if the soldering iron touches them.</td> <td>Always clear your workspace before you turn on your iron. It should be compeltely empty apart from your gear.</td></tr>
+  <tr><td>Solder bubbling</td><td>In some circumstances solder can bubble and spit. This can send molten hot metal flying. Luckily it cools down extremely fast but if it hits your eye it could case injury.</td><td>Wear safety glasses and don't put your face right up next to your soldering iron.</td></tr>
+  <tr><td>Electricity</td> <td>If your soldering active components or wires you could get shocked and your parts could short circuit. </td> <td>Never solder live components and ensure nothing is plugged in.</td></tr>
+  <tr><td>Clothing / hair</td><td>Loose clothing or hair can burn or get stuck while soldering. </td><td>Always ensure any loose hair is tied back and don't wear extremely loose clothing like hoodies.</td></tr>
+  <tr><td>Storage of your iron</td><td>Your iron can retain crazy amounts of heat even when turned off for a few minutes</td><td>Check how hot your iron is by slowly moving your hand towards the tip to see if you can feel warmer air around it before you store it.</td></tr>
 </table>
+
+
