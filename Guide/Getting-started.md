@@ -36,4 +36,11 @@ Soldering is normally extremely safe, but anything could go wrong so make sure y
   <tr><td>Storage of your iron</td><td>Your iron can retain crazy amounts of heat even when turned off for a few minutes</td><td>Check how hot your iron is by slowly moving your hand towards the tip to see if you can feel warmer air around it before you store it.</td></tr>
 </table>
 
+<h2>Preperation</h2>
 
+Your so close to getting to the fun bit!
+
+<h3>Preparing your space</h3>
+to prepare you space you should first remove everything. Have a look at the surface your soldering on, what's it made out of? If it does burn and ruin how it looks will you or anyone else care? While putting a silicone soldering mat on your surface does work, it's always safer to move if you don't want the surface to burn or if you think it's unsafe.
+
+Now have a look at the room in general. Is it well ventilated? Is there anything or anyone else in here that might disrupt something?
