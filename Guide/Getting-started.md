@@ -41,6 +41,7 @@ Soldering is normally extremely safe, but anything could go wrong so make sure y
 Your so close to getting to the fun bit!
 
 <h3>Preparing your space</h3>
-to prepare you space you should first remove everything. Have a look at the surface your soldering on, what's it made out of? If it does burn and ruin how it looks will you or anyone else care? While putting a silicone soldering mat on your surface does work, it's always safer to move if you don't want the surface to burn or if you think it's unsafe.
+Make sure the surface your about to solder on is clean, the room is well ventilated and nothing else in the room could disturb anything. Set out all your materials and get everything prepared.
 
-Now have a look at the room in general. Is it well ventilated? Is there anything or anyone else in here that might disrupt something?
+<h3>Preparing yourself</h3>
+Think about how your feeling, you don't want to be soldering when your extremely tired (trust me) put on any safety gear you want to wear and you can get started!
