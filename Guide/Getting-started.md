@@ -47,4 +47,4 @@ Make sure the surface your about to solder on is clean, the room is well ventila
 Think about how your feeling, you don't want to be soldering when your extremely tired (trust me) put on any safety gear you want to wear and you can get started!
 <br>
 
-[start soldering!](Guide/Soldering.md)
+[start soldering!](Soldering.md)
