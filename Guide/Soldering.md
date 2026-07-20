@@ -17,4 +17,7 @@ To solder you are going to heat up the metal parts of your components and melt t
 <h3>Component onto PCB soldering</h3>
 If you are soldering a component onto a PCB you are going to start off by placing the component onto it's spot on the PCB. If you're using helping hands or a PCB clamp now is the time to put your PCB in it.
 
-Now you are going to touch the end of the soldering iron onto the pad and heat up both the pad of PCB and the component. Hold the iron there for up to 10 seconds. 
+
+Now you are going to touch the end of the soldering iron onto the pad and heat up both the pad of PCB and the component. Hold the iron there for up to 10 seconds. Now - while still touching the iron to the parts, pick up your solder and apply a small amount by pressing the end of the solder to the heated up pad. If the solder doesn't melt keep heating up the parts for another ten seconds, if it still doesn't melt after that melt some onto the tip of your iron and try again.
+
+The solder should 'jump' to the heated parts
